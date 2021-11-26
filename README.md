@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+This whitepaper is still being built. 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Solaris Contract address: 0xE197d91488A8Af2fb8165Bf7D7bc46d260a42d6e
